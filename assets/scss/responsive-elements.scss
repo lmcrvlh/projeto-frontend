@@ -1,0 +1,25 @@
+@media (max-width: 1150px) {
+  .container {
+    width: 950px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container {
+    width: 850px;
+  }
+
+  //Sobre
+  .sobre-web-design {
+    //figcaption
+    figcaption {
+      //img
+      img {
+        width: 600px;
+      }
+      //end img
+    }
+    //end figcaption
+  }
+  //end Sobre
+}
